@@ -9,6 +9,7 @@ HTTP is a protocol that allows us to communicate between the browser and the ser
 There are some http methods ( GET, POST, PUT, HEAD, DELETE, OPTION, CONNECT, PATCH ...)
 
 In this article, I will only give information about the methods I used in this project.
+
 `GET`: This method is used to get data from the server.
 
 `POST`: You can print data to the server with this method. With this method, request parameters can be sent both in the URL and in the message body.
